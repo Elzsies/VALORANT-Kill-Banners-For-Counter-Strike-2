@@ -1,0 +1,12 @@
+{
+  "volume": 44,
+  "skins": {
+    "ak": "RGX 11z Pro",
+    "deagle": "Singularity",
+    "m4": "Champions 2022",
+    "others": "Kuronami",
+    "default": "Aemondir",
+    "ace": "None"
+  },
+  "finisher_volume": 14
+}
