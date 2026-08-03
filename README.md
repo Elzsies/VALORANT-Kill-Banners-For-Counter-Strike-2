@@ -1,4 +1,4 @@
-
+baasedd of some personss sketchy code lool
 VALORANT kill banners in cs using the games GSI &amp; some python
 change self.user = to your username duh
 
